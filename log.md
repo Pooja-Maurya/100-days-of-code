@@ -11,7 +11,7 @@
 **Thoughts:** I really learned some  CSS, but, overall, I feel like I am slowly getting better at it and managed to figure out some basic .
 
 ### Day 2: 03 August 2017 
-**Today's Progress**:  html5 and css
+**Today's Progress**:  html5 and css completed
 
-**Thoughts:** learned margin type ,padding type and other thing interesting how it work on the screen .
+**Thoughts:** learned margin type ,padding type and override patent css color types thing interesting how it work on the screen and finished the html and css completed.
 
