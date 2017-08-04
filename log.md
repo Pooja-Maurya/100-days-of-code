@@ -15,3 +15,11 @@
 
 **Thoughts:** learned margin type ,padding type and override patent css color types thing interesting how it work on the screen and finished the html and css completed.
 
+### Day 3: 04 August 2017 
+**Today's Progress**:  Use Responsive Design with Bootstrap Fluid Containers	and started with udacity program of swift language ios platform
+
+**Thoughts:**swift  var / let declaring and other methods fuctions etcs .
+
+### Day 4: 05 August 2017 
+**Today's Progress**:  
+**Thoughts:**
